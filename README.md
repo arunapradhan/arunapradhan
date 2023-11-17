@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arunapradhan
 - 👀 I’m interested in learning new things 
 - 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on ...
+- 💞️ ...
 - 📫 arunapradhan1105@gmail.com
 
 <!---
